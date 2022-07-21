@@ -74,6 +74,10 @@ footer {
 img {
     width:100%;
     border-radius: 10%;
-    flex-shrink: 0;
+    
 
+}
+
+#contact-knop a {
+    color:black;
 }
