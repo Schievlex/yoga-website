@@ -99,6 +99,7 @@ flex-wrap: wrap;
     font-size: 25px;
     line-height: 1.6;
     padding: 15px;
+    justify-content: center;
 }
 
 .quoteowner {
